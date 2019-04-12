@@ -1,0 +1,8 @@
+Stark.BlackJaguar ,250,450,0,35,30,90,0.5,2,
+Mai.BlackJaguar, 250,450,0,35,30,90,0.5,2,
+Yasmine.BlackJaguar, 250,450,0,35,30,90,0.5,2,
+Lily.BlackJaguar ,250,450,0,35,30,90,0.5,2,
+Jack.BlackJaguar ,250,450,0,35,30,90,0.5,2,
+Black.BlackJaguar,250,450,0,35,30,90,0.5,2,
+
+

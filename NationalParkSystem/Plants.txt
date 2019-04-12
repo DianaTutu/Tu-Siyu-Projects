@@ -1,0 +1,1 @@
+TasmaniaTiger,3,Euphorbia,15,30Dixter,5,Euphorbia,13,32Blackbird,4,Euphorbia,10,28Chameleon,6,Euphorbia,19,35Koa,5,Acacia,24,30Rosemallows,4,Hibiscus,15,25

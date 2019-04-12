@@ -1,0 +1,2 @@
+Jennie.AfricanElephant,300,500,35,50,1.2,Apple.AfricanElephant,300,500,35,50,1.3,
+Lin.AfricanElephant,300,500,35,50,1.4,Feng.AfricanElephant,300,500,35,50,1.5,Lan.AfricanElephant,300,500,35,50,1.2,
